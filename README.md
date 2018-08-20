@@ -13,7 +13,7 @@ By loading your custom reference image and by providing the correct measurements
 
 # Future developments
 
-The project will be further developed in order to be more generalized and provide a few user interactions to the user.
+The project will be further developed in order to allow more generalization feel free to contribute if you want!
 
 # Screenshots: 
 

@@ -17,8 +17,6 @@ The project will be further developed in order to be more generalized and provid
 
 # Screenshots: 
 
-![Screenshot](/../<branch name>/path/to/image.png?raw=true "Optional Title")
-
 ![App screenshot](IMG_5144.PNG)
 
 
